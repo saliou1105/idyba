@@ -1,0 +1,11 @@
+total 40
+drwxr-xr-x 7 saliou saliou 4096 sep 10 17:57 .
+drwxr-xr-x 3 saliou saliou 4096 sep 10 17:58 ..
+drwxr-xr-x 2 saliou saliou 4096 sep 10 17:57 branches
+-rw-r--r-- 1 saliou saliou   92 sep 10 17:57 config
+-rw-r--r-- 1 saliou saliou   73 sep 10 17:57 description
+-rw-r--r-- 1 saliou saliou   23 sep 10 17:57 HEAD
+drwxr-xr-x 2 saliou saliou 4096 sep 10 17:57 hooks
+drwxr-xr-x 2 saliou saliou 4096 sep 10 17:57 info
+drwxr-xr-x 4 saliou saliou 4096 sep 10 17:57 objects
+drwxr-xr-x 4 saliou saliou 4096 sep 10 17:57 refs
